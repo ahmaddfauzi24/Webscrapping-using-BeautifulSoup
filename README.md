@@ -10,12 +10,12 @@ Through the website, data on the Rupiah to USD exchange rate for a period of 180
 
 After scraping, I changed it to a dataframe and I made a groupby based on the month and the average exchange rate for each month
 
-<img src="assets/data.jpeg" width="200" height="200">
+<img src="assets/data.jpeg" width="150" height="200">
 
 ## Plot
 After that, we do the visualization
 
-<img src="assets/plot.jpeg" width="400" height="200">
+<img src="assets/plot.jpeg" width="400" height="300">
 
 ## Conclusion
 
