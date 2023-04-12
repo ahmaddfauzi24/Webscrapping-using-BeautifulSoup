@@ -2,6 +2,8 @@
 
 Web scraping is an automatic method to obtain large amounts of data from websites. In this Capstone, I will do web scraping exchange rate US Dollar (USD) To Indonesian Rupiah (IDR) from https://www.exchange-rates.org/history/IDR/USD/T
 
+<img src="assets/USD.jpeg" width="650" height="400">
+
 ## Indonesian Rupiah (IDR) per US Dollar (USD)
 
 Through the website, data on the Rupiah to USD exchange rate for a period of 180 days starting from October 10th, 2022 to April 7th, 2023 can be obtained, and a summary graph of the exchange rate movement during that period is generated. It is observed that the Rupiah to USD exchange rate has decreased during the 180-day period, and the average exchange rate during this period is Rp 15,382.
