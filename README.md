@@ -1,4 +1,4 @@
-# Capstone Webscrapping using BeautifulSoup
+# Webscrapping using BeautifulSoup
 
 Web scraping is an automatic method to obtain large amounts of data from websites. In this Capstone, I will do web scraping exchange rate US Dollar (USD) To Indonesian Rupiah (IDR) from https://www.exchange-rates.org/history/IDR/USD/T
 
